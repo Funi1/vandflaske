@@ -37,7 +37,7 @@ footer {
 /*mobile first, siden er sat visuelt op som vi ser i understående kode.*/
 
 .wrapper {
-	max-width: 1600px;
+	max-width: 1200px;
 	margin: 32px auto 0;
 	display: grid;
 	grid-gap: 32px;
